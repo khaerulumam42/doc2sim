@@ -1,5 +1,7 @@
 .vscode/
+.uploaded/
 __pycache__/
+*.py[cod]
 *.docx
 *.pdf
 w2v.py
